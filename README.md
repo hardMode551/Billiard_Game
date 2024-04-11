@@ -6,7 +6,7 @@
 - Front: React + typeScript + canvas
 - Styles: css
 
-Ссылка на демо: 
+Ссылка на демо: https://billiard-game.vercel.app/
 
 ## Инструкция по клонированию репозитория
 
