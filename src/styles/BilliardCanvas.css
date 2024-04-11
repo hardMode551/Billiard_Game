@@ -1,0 +1,15 @@
+.billiard-canvas{
+    position: relative;
+    border: 1px solid #ccc;
+}
+
+.ball-menu {
+    position: absolute;
+
+    width: 200px;
+
+    padding: 10px;
+
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
